@@ -1,0 +1,12 @@
+{
+    "id": "{C58C773C-2520-B81A-C5FB-A488A3B2D34E}",
+    "name": "MQTT Syncer",
+    "author": "Andre Schmidt",
+    "url": "https://github.com/Hagbard235/MQTTSyncer",
+    "compatibility": {
+        "version": "6.0"
+    },
+    "version": "1.0",
+    "build": 1,
+    "date": 27
+}

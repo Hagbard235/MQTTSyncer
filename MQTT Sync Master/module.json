@@ -1,0 +1,16 @@
+{
+    "id": "{B39F95EE-9F82-3DA9-F237-105AC1BF889D}",
+    "name": "MQTT Sync Master",
+    "type": 4,
+    "vendor": "",
+    "aliases": [],
+    "parentRequirements": [
+        "{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{018EF6B5-AB94-40C6-AA53-46943E824ACF}"
+    ],
+    "prefix": "MQS",
+    "url": ""
+}
